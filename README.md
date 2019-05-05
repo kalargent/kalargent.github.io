@@ -1,1 +1,2 @@
-# responsive-portfolio
+# Basic-Portfolio
+Recommended Assignment #1
